@@ -11,4 +11,3 @@ https://medium.com/@akhilesh-mishra/devops-zero-to-hero-4-deploy-a-dockerized-fl
 {{ .Content }}
 <!-- END_TF_DOCS -->
 
-11
